@@ -15,7 +15,7 @@ A next-generation video conferencing platform with AI-powered features, real-tim
 -  **Avatar System** - Dynamic avatar generation with Dicebear
 -  **Modern UI/UX** - Sleek interface with Radix UI components
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework:** Next.js 15.3.4 with App Router
